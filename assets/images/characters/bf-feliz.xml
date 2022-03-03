@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:5fcb878211c7df7d3d0e845beb54bff2:0682773d32fb798a882568e4a3ac97a2:bfe04d2f1fbbdd1c4578ebb99711744e$ -->
+<TextureAtlas imagePath="bf-feliz.png" width="300" height="186">
+    <SubTexture name="bf idle0" x="1" y="0" width="52" height="60"/>
+	<SubTexture name="bf idle1" x="0" y="0" width="53" height="60"/>
+	<SubTexture name="bf idle2" x="79" y="0" width="54" height="60"/>
+	<SubTexture name="bf idle3" x="239" y="0" width="56" height="60"/>
+	<SubTexture name="bf left0" x="137" y="63" width="55" height="59"/>
+	<SubTexture name="bf left1" x="218" y="63" width="54" height="60"/>
+	<SubTexture name="bf right0" x="0" y="122" width="51" height="60"/>
+	<SubTexture name="bf right1" x="79" y="122" width="51" height="60"/>
+	<SubTexture name="bf up0" x="136" y="122" width="47" height="63"/>
+	<SubTexture name="bf up1" x="216" y="123" width="847" height="61"/>
+	<SubTexture name="bf down0" x="0" y="62" width="54" height="54"/>
+	<SubTexture name="bf down1" x="81" y="61" width="47" height="55"/>
+
+</TextureAtlas>
